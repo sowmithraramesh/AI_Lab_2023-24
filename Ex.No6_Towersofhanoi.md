@@ -31,6 +31,8 @@ move(N,X,Y,Z) :-
 
 
 
+
+
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/adacf9f5-256d-438e-91ab-1d0b5ffd53fd)
