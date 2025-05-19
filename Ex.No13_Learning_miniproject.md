@@ -95,6 +95,8 @@ with gr.Blocks(css=".gradio-container {font-family: 'Segoe UI', sans-serif;}") a
 demo.launch()
 ```
 ### Output:
+![WhatsApp Image 2025-05-19 at 21 21 10_3db746a4](https://github.com/user-attachments/assets/4f6f1dff-f2fe-42cb-adfc-e63580b64abf)
+
 
 ### Result:
 Thus, the phishing website classifier was successfully trained using supervised learning and was able to make predictions based on user inputs.
