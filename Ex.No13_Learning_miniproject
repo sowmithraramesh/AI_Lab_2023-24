@@ -94,10 +94,7 @@ with gr.Blocks(css=".gradio-container {font-family: 'Segoe UI', sans-serif;}") a
 
 demo.launch()
 ```
-
-
 ### Output:
-"C:\Users\sowmi\OneDrive\Pictures\Screenshots\Screenshot 2025-05-19 205359.png"
 
 ### Result:
-Thus the system was trained successfully and the prediction was carried out.
+Thus, the phishing website classifier was successfully trained using supervised learning and was able to make predictions based on user inputs.
