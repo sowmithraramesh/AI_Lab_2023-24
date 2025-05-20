@@ -1,5 +1,5 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
-### DATE:                                                                            
+# Ex.No: 13 Learning – Use Supervised Learning  
+### DATE: 06.05.2025                                                                            
 ### REGISTER NUMBER : 212222060251
 ### AIM: 
 To write a program to train a classifier for phishing website detection using supervised learning.
